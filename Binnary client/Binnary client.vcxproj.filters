@@ -21,12 +21,12 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Binnary server\Binnary server\protocol.cpp">
+    <ClCompile Include="..\Binnary server\protocol.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\Binnary server\Binnary server\protocol.h">
+    <ClInclude Include="..\Binnary server\protocol.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

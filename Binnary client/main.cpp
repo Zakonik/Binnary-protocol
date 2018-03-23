@@ -3,8 +3,7 @@
 #include<iostream>
 #include<vector>
 #include<bitset>
-#include"D:\Studia\Technologie sieciowe\Binnary server\Binnary server\protocol.h"
-
+#include"protocol.h"
 #define get_data std::get<1>(datas)
 #define get_over std::get<3>(datas)
 
